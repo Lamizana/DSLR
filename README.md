@@ -151,14 +151,6 @@ DSLR/
 
 ---
 
-## Documentation
-
-| Fichier | Descriptif |
-| --- | --- |
-| [`docs/enonce.md`](docs/enonce.md) | Sujet officiel du projet 42 (consignes, mandatory, bonus) |
-
----
-
 ## Contribuer
 
 Projet pédagogique 42 : les remarques sont bienvenues via une **issue** ou une **pull request**.
