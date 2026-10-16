@@ -1,0 +1,51 @@
+[2025-09-22 15:48:15] [WARNING] Impossible de convertir la colonne 'Hogwarts House' en numérique. (histogram.py:54)
+[2025-09-22 15:48:15] [WARNING] Impossible de convertir la colonne 'First Name' en numérique. (histogram.py:54)
+[2025-09-22 15:48:15] [WARNING] Impossible de convertir la colonne 'Last Name' en numérique. (histogram.py:54)
+[2025-09-22 15:48:15] [WARNING] Impossible de convertir la colonne 'Birthday' en numérique. (histogram.py:54)
+[2025-09-22 15:48:15] [WARNING] Impossible de convertir la colonne 'Best Hand' en numérique. (histogram.py:54)
+[2025-09-22 15:48:15] [INFO] Données du fichier '../datasets/dataset_train.csv' récupérer avec succès :
+   Index Hogwarts House  ...     Charms  Flying
+0      0      Ravenclaw  ... -232.79405  -26.89
+1      1      Slytherin  ... -252.18425 -113.45
+2      2      Ravenclaw  ... -227.34265   30.42
+3      3     Gryffindor  ... -256.84675  200.64
+4      4     Gryffindor  ... -256.38730  157.98
+
+[5 rows x 19 columns] (histogram.py:56)
+[2025-09-22 15:48:15] [INFO] Cours détectés : ['Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying'] (histogram.py:181)
+[2025-09-22 15:48:17] [INFO] Fermeture du programme ! (histogram.py:199)
+[2025-09-22 15:48:17] [INFO] ----------------------------------------------------------------- (histogram.py:200)
+[2025-09-22 16:28:38] [WARNING] Impossible de convertir la colonne 'Hogwarts House' en numérique. (histogram.py:54)
+[2025-09-22 16:28:38] [WARNING] Impossible de convertir la colonne 'First Name' en numérique. (histogram.py:54)
+[2025-09-22 16:28:38] [WARNING] Impossible de convertir la colonne 'Last Name' en numérique. (histogram.py:54)
+[2025-09-22 16:28:38] [WARNING] Impossible de convertir la colonne 'Birthday' en numérique. (histogram.py:54)
+[2025-09-22 16:28:38] [WARNING] Impossible de convertir la colonne 'Best Hand' en numérique. (histogram.py:54)
+[2025-09-22 16:28:38] [INFO] Données du fichier '../datasets/dataset_train.csv' récupérer avec succès :
+   Index Hogwarts House First Name  Last Name    Birthday Best Hand  Arithmancy   Astronomy  ...  Muggle Studies  Ancient Runes  History of Magic  Transfiguration   Potions  Care of Magical Creatures     Charms  Flying
+0      0      Ravenclaw     Tamara        Hsu  2000-03-30      Left     58384.0 -487.886086  ...      272.035831     532.484226          5.231058      1039.788281  3.790369                   0.715939 -232.79405  -26.89
+1      1      Slytherin      Erich    Paredes  1999-10-14     Right     67239.0 -552.060507  ...     -487.340557     367.760303          4.107170      1058.944592  7.248742                   0.091674 -252.18425 -113.45
+2      2      Ravenclaw   Stephany      Braun  1999-11-03      Left     23702.0 -366.076117  ...      664.893521     602.585284          3.555579      1088.088348  8.728531                  -0.515327 -227.34265   30.42
+3      3     Gryffindor      Vesta  Mcmichael  2000-08-19      Left     32667.0  697.742809  ...     -537.001128     523.982133         -4.809637       920.391449  0.821911                  -0.014040 -256.84675  200.64
+4      4     Gryffindor     Gaston      Gibbs  1998-09-27      Left     60158.0  436.775204  ...     -444.262537     599.324514         -3.444377       937.434724  4.311066                  -0.264070 -256.38730  157.98
+
+[5 rows x 19 columns] (histogram.py:56)
+[2025-09-22 16:28:38] [INFO] Cours détectés : ['Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying'] (histogram.py:150)
+[2025-09-22 16:28:40] [INFO] Fermeture du programme ! (histogram.py:168)
+[2025-09-22 16:28:40] [INFO] ----------------------------------------------------------------- (histogram.py:169)
+[2025-09-22 16:35:53] [WARNING] Impossible de convertir la colonne 'Hogwarts House' en numérique. (histogram.py:50)
+[2025-09-22 16:35:53] [WARNING] Impossible de convertir la colonne 'First Name' en numérique. (histogram.py:50)
+[2025-09-22 16:35:53] [WARNING] Impossible de convertir la colonne 'Last Name' en numérique. (histogram.py:50)
+[2025-09-22 16:35:53] [WARNING] Impossible de convertir la colonne 'Birthday' en numérique. (histogram.py:50)
+[2025-09-22 16:35:53] [WARNING] Impossible de convertir la colonne 'Best Hand' en numérique. (histogram.py:50)
+[2025-09-22 16:35:53] [INFO] Données du fichier '../datasets/dataset_train.csv' récupérer avec succès :
+   Index Hogwarts House  ...     Charms  Flying
+0      0      Ravenclaw  ... -232.79405  -26.89
+1      1      Slytherin  ... -252.18425 -113.45
+2      2      Ravenclaw  ... -227.34265   30.42
+3      3     Gryffindor  ... -256.84675  200.64
+4      4     Gryffindor  ... -256.38730  157.98
+
+[5 rows x 19 columns] (histogram.py:52)
+[2025-09-22 16:35:53] [INFO] Cours détectés : ['Arithmancy', 'Astronomy', 'Herbology', 'Defense Against the Dark Arts', 'Divination', 'Muggle Studies', 'Ancient Runes', 'History of Magic', 'Transfiguration', 'Potions', 'Care of Magical Creatures', 'Charms', 'Flying'] (histogram.py:146)
+[2025-09-22 16:35:58] [INFO] Fermeture du programme ! (histogram.py:164)
+[2025-09-22 16:35:58] [INFO] ----------------------------------------------------------------- (histogram.py:165)
