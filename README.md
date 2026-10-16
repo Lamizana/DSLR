@@ -12,7 +12,7 @@
   <p><em>Projet de l'école 42.</em></p>
   <p>Créé le 02/02/2026 · Dernière mise à jour : 16/10/2026</p>
 
-  <a href="https://lamizana.github.io/ZehdBox/"  target="_blank">
+  <a href="https://lamizana.github.io/ZehdBox/">
     <img src="https://img.shields.io/badge/Portfolio-ZehdBox-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio ZehdBox">
   </a>
 
