@@ -1,15 +1,20 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3"></a>
-  <a href="https://github.com/Lamizana/DSLR"><img src="https://img.shields.io/badge/Projet-42-000000?style=for-the-badge&logo=42&logoColor=white" alt="Projet 42"></a>
-</p>
+  <p align="center">
+    <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3"></a>
+    <a href="https://github.com/Lamizana/DSLR"><img src="https://img.shields.io/badge/Projet-42-000000?style=for-the-badge&logo=42&logoColor=white" alt="Projet 42"></a>
+  </p>
 
-<h1>DSLR</h1>
+  <h1>DSLR</h1>
 
-<p><strong>Data Science × Logistic Regression — reconstruire le Choixpeau de Poudlard par régression logistique.</strong></p>
+  <p><strong>Data Science × Logistic Regression - Reconstruire le Choixpeau de Poudlard par régression logistique.</strong></p>
 
-<p>Créé dans le cadre du cursus 42</p>
+  <p><em>Projet de l'école 42.</em></p>
+  <p>Créé le 02/02/2026 · Dernière mise à jour : 16/10/2026</p>
+
+  <a href="https://lamizana.github.io/ZehdBox/projets/">
+    <img src="https://img.shields.io/badge/Portfolio-Fiche%20du%20projet-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Fiche du projet">
+  </a>
 
 </div>
 
@@ -41,11 +46,13 @@
 
 ## À propos
 
-DSLR (Data Science × Logistic Regression) est le projet de découverte du Machine Learning du cursus 42. Partant d'un jeu de données d'élèves de Poudlard, il implémente une régression logistique multiclasse (one-vs-all) **from scratch** pour prédire la maison de chaque élève — Gryffondor, Poufsouffle, Serdaigle ou Serpentard.
+**DSLR** (Data Science × Logistic Regression) est le projet de découverte du **Machine Learning** du cursus 42. Partant d'un jeu de données d'élèves de Poudlard, il implémente une *régression logistique multiclasse (one-vs-all)* **from scratch** pour prédire la maison de chaque élève: Gryffondor, Poufsouffle, Serdaigle ou Serpentard.
 
 | Ressource | Lien |
 | --- | --- |
-| *Sujet complet* | [`docs/subject.md`](docs/subject.md) |
+| *Enoncé* | [`docs/subject.md`](docs/enonce.md) |
+| *Fiche du projet (portfolio)* | [ZehdBox](https://lamizana.github.io/ZehdBox/projets/minishell/) |
+
 
 ---
 
@@ -169,4 +176,12 @@ Projet pédagogique 42 : les remarques sont bienvenues via une **issue** ou une 
 
 ## Remerciements
 
-- 42 : sujet Data Science × Logistic Regression
+- [42 Angoulême](https://www.42angouleme.fr/) : cadre pédagogique du projet
+
+---
+
+<div align="center">
+
+*Ce projet a été réalisé conformément à la norme et au sujet officiel de 42.*
+
+</div>
