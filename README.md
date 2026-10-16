@@ -50,8 +50,8 @@
 
 | Ressource | Lien |
 | --- | --- |
-| *Enoncé* | [`docs/subject.md`](docs/enonce.md) |
-| *Fiche du projet (portfolio)* | [ZehdBox](https://lamizana.github.io/ZehdBox/projets/minishell/) |
+| *Enoncé* | [`docs/enonce.md`](docs/enonce.md) |
+| *Fiche du projet (portfolio)* | [ZehdBox](https://lamizana.github.io/ZehdBox/) |
 
 
 ---
@@ -144,7 +144,7 @@ DSLR/
 ├── Scikit_Learn/             # Comparaison avec scikit-learn
 ├── datasets/                 # dataset_train.csv, dataset_test.csv
 ├── docs/                     # Sujet et documentation
-│   └── subject.md
+│   └── enonce.md
 ├── requirements.txt
 └── README.md
 ```
@@ -155,7 +155,7 @@ DSLR/
 
 | Fichier | Descriptif |
 | --- | --- |
-| [`docs/subject.md`](docs/subject.md) | Sujet officiel du projet 42 (consignes, mandatory, bonus) |
+| [`docs/enonce.md`](docs/enonce.md) | Sujet officiel du projet 42 (consignes, mandatory, bonus) |
 
 ---
 
